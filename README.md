@@ -1,10 +1,10 @@
 # Taller_01_Computacion_Paralela
 
 
-Repositorio del código en el lenguaje de programación C, correspondiente a la solución del cuestionario asignado para el primer taller de la materia. Para ello se utilizó la metodología de compilación por serado, por tal motivo la solución se encuentra divida en 3 archivos taller_main.c (Archivo que contine el método prinicipal para generar el arranque del programa), taller_lib.c (Archivo que es la interfaz de los métodos a los que el programa hace llamados y que se encargan de dar la solución solicitada para cada punto) y por último, el archivo taller_lib.h (Archivo que es la biblioteca artesanal creada con el fin de generar el listado de funciones y métodos que permitirán el correcto despeño del programa). Adicional a esto se incluye un archivo nombrado Makefile que se encargará de automatizar el proceso de compilación de los archivos .c generando el ejecutable app_taller.
+Repositorio del código en el lenguaje de programación C, correspondiente a la solución del cuestionario asignado para el primer taller de la materia. Para ello se utilizó la metodología de compilación por serado, por tal motivo la solución se encuentra divida en 3 archivos taller_main.c (Archivo que contiene el método principal para generar el arranque del programa), taller_lib.c (Archivo que es la interfaz de los métodos a los que el programa hace llamados y que se encargan de dar la solución solicitada para cada punto) y por último, el archivo taller_lib.h (Archivo que es la biblioteca artesanal creada con el fin de generar el listado de funciones y métodos que permitirán el correcto desempeño del programa). Adicional a esto se incluye un archivo nombrado Makefile que se encargará de automatizar el proceso de compilación de los archivos .c generando el ejecutable app_taller.
 
 
-A continución encontrará el resumen de los problemas plantados para brindar su respetiva respuesta, y se nombrará el espacio en el que se encuentra la solución de cada problema.
+A continuación encontrará el resumen de los problemas planteados para brindar su respectiva respuesta, y se nombrará el espacio en el que se encuentra la solución de cada problema.
 
 # Ejercicio 1: 
 Para el primer ejercicio tenemos el siguiente problema:
@@ -19,7 +19,7 @@ Producto de los dos enteros anteriores = 375" \
 
 # Ejercicio 2: 
 Para el Segundo ejercicio tenemos el siguiente problema: 
-> "Escribe un programa en C para convertir los días especi cados en años, semanas y días. \
+> "Escribe un programa en C para convertir los días especificados en años, semanas y días. \
 Nota: Ignore el año bisiesto. \
 Datos de prueba: \
 Número de días: 1329 \
@@ -54,7 +54,7 @@ Salida esperada :\
 # Ejercicio 5: 
 Para el quinto ejercicio tenemos el siguiente problema: 
 > "Escribe un programa en C para mostrar el patrón como triángulo rectángulo usando un\
-asterisco. La cantidad de líneas del triangulo es ingresada por consola por el usuario, y el valor\
+asterisco. La cantidad de líneas del triángulo es ingresada por consola por el usuario, y el valor\
 máximo de líneas es de 14.\
 El patrón como :\
 *\
@@ -105,7 +105,9 @@ Finalmente, se presenta el producto de las dos matrices." \
 # ¿Cómo usar?
 ***NOTA:** Tenga en cuenta que a continuación se encuentra la manera de ejecutar el programa en un entorno linux*
 1. Inicialmente deberá descargar los archivos y ubicar los cuatro en una misma carpeta, no cambie los nombres de los archivos o el proceso de compilación se verá afectado.
-2. Posteriormente ubiquese en la carpeta en la que albergó los cuatro archivos
+2. Posteriormente ubíquese en la carpeta en la que albergó los cuatro archivos
 3. Ejecute el comando **make taller_main**
-4. Ejecute el comendo **.\app_taller** 
+4. Ejecute el comando **.\app_taller** 
 5. Interactúe con el programa a su gusto
+
+
