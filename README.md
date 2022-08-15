@@ -106,4 +106,6 @@ Finalmente, se presenta el producto de las dos matrices." \
 ***NOTA:** Tenga en cuenta que a continuación se encuentra la manera de ejecutar el programa en un entorno linux*
 1. Inicialmente deberá descargar los archivos y ubicar los cuatro en una misma carpeta, no cambie los nombres de los archivos o el proceso de compilación se verá afectado.
 2. Posteriormente ubiquese en la carpeta en la que albergó los cuatro archivos
-3. Ejecutar el comando make 
+3. Ejecute el comando **make taller_main**
+4. Ejecute el comendo **.\app_taller** 
+5. Interactúe con el programa a su gusto
