@@ -64,3 +64,46 @@ El patrón como :\
 \
 ***NOTA:** Puede observar la respuesta dentro del método fifth_point() dentro del archivo taller_lib.c*
 
+# Ejercicio 6: 
+Para el sexto ejercicio tenemos el siguiente problema: 
+> "Escribe un programa que imprima una matriz de “1”, de tamaño NxN. El tamaño es\
+indicado por el usuario y debe ser siempre menor que 8." \
+\
+***NOTA:** Puede observar la respuesta dentro del método sixth_point() dentro del archivo taller_lib.c*
+
+# Ejercicio 7: 
+Para el séptimo ejercicio tenemos el siguiente problema: 
+> "Escribe un programa que imprima una matriz de números aleatorios enteros, entre 0 y 9, de\
+de tamaño NxN. El tamaño es indicado por el usuario y debe ser siempre menor que 8." \
+\
+***NOTA:** Puede observar la respuesta dentro de los métodos rand_number() y seventh_point() dentro del archivo taller_lib.c*
+
+# Ejercicio 8: 
+Para el octavo ejercicio tenemos el siguiente problema: 
+> "Escribe un programa que muestre dos matrices de números aleatorios, entre 0 y 9, de\
+tamaño NxN. El tamaño es indicado por el usuario y debe ser siempre menor que 8.\
+Finalmente, se presenta la suma de las dos matrices." \
+\
+***NOTA:** Puede observar la respuesta dentro del método eighth_point() dentro del archivo taller_lib.c*
+
+# Ejercicio 9: 
+Para el noveno ejercicio tenemos el siguiente problema: 
+> "Escribe un programa que muestre dos matrices de números aleatorios, entre 0 y 9, de\
+tamaño NxN. El tamaño es indicado por el usuario y debe ser siempre menor que 8.\
+Finalmente, se presenta la resta de las dos matrices." \
+\
+***NOTA:** Puede observar la respuesta dentro del método ninth_point() dentro del archivo taller_lib.c*
+
+# Ejercicio 10: 
+Para el décimo ejercicio tenemos el siguiente problema: 
+> "Escribe un programa que muestre dos matrices de números aleatorios, entre 0 y 9, de\
+tamaño NxN. El tamaño es indicado por el usuario y debe ser siempre menor que 8.\
+Finalmente, se presenta el producto de las dos matrices." \
+\
+***NOTA:** Puede observar la respuesta dentro del método tenth_point() dentro del archivo taller_lib.c*
+
+# ¿Cómo usar?
+***NOTA:** Tenga en cuenta que a continuación se encuentra la manera de ejecutar el programa en un entorno linux*
+1. Inicialmente deberá descargar los archivos y ubicar los cuatro en una misma carpeta, no cambie los nombres de los archivos o el proceso de compilación se verá afectado.
+2. Posteriormente ubiquese en la carpeta en la que albergó los cuatro archivos
+3. Ejecutar el comando make 
